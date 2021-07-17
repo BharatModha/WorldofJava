@@ -8,5 +8,6 @@ https://www.getfreeebooks.com/331-free-java-ebooks-covering-16-different-categor
 
 # Open Source Java Projects
 https://medium.com/issuehunt/50-top-java-projects-on-github-adbfe9f67dbc
+https://www.upgrad.com/blog/java-open-source-projects/
 
 
